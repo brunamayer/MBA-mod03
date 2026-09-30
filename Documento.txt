@@ -1,6 +1,10 @@
-Versão 1
+Versão 1.1
 
 
 Caneca 
 Celular 
 Mouse
+
+Caneta 
+Lápis 
+Borracha
